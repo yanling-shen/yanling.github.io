@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yanling Shen / Personal Homepage"
+title                    : "Yanling Shen / Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
