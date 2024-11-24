@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yanling Shen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Columbia University"
-  employer         : "Red Brick University"
+  bio              : "Columbia University"
+  location         : "New York, NY"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "ys3526@columbia.edu" 
 
