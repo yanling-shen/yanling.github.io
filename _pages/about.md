@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof. Vladimir A. Kobzar](https://math.osu
 
 Here is my [CV](https://github.com/yanling-shen/yanling.github.io/blob/master/assets/CV.pdf).
 
-Here are some publications:
+Here are some publications & preprints:
 
 [Lower Bounds on Block-Diagonal SDP Relaxations for the Clique Number of the Paley Graphs and Their Localizations](https://github.com/yanling-shen/yanling.github.io/blob/master/assets/paley_paper.pdf)
 
