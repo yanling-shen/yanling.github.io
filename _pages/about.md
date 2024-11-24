@@ -14,4 +14,12 @@ I am very fortunate to be advised by [Prof. Vladimir A. Kobzar](https://math.osu
 
 Here is my [CV](../assets/CV.pdf).
 
-title: "Publications & Preprints"
+---
+permalink: /
+title: "Publication & Preprints"
+excerpt: "Publication & Preprints"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
