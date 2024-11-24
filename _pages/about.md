@@ -17,6 +17,7 @@ Here is my [CV](../assets/CV.pdf).
 Here are some publications:
 
 [Lower Bounds on Block-Diagonal SDP Relaxations for the Clique Number of the Paley Graphs and Their Localizations](../assets/paley_paper.pdf)
+
 Yifan Wang, Yanling Shen, and Vladimir A. Kobzar
 In Proceeding, 2025
 Submitted for review
