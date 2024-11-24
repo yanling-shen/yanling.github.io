@@ -12,7 +12,7 @@ I am a second year Master student from [Applied Mathematics](https://www.apam.co
 
 I am very fortunate to be advised by [Prof. Vladimir A. Kobzar](https://math.osu.edu/people/kobzar.1) from [Department of Mathematics](https://math.osu.edu/), Ohio State University. 
 
-Here is my [CV](../assets/CV.pdf).
+Here is my [CV](https://github.com/yanling-shen/yanling.github.io/blob/master/assets/CV.pdf).
 
 Here are some publications:
 
