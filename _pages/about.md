@@ -21,7 +21,6 @@ Here are some publications:
 Yifan Wang, Yanling Shen, and Vladimir A. Kobzar
 
 In Proceeding, 2025
-
 Submitted for review
 
 [Poster](../assets/Paley_poster.pdf) presented at Foundations of Data Science Workshop at Data Science Institute, Columbia University.
