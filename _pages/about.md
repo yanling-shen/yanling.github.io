@@ -16,7 +16,7 @@ Here is my [CV](https://github.com/yanling-shen/yanling.github.io/blob/master/as
 
 Here are some publications:
 
-[Lower Bounds on Block-Diagonal SDP Relaxations for the Clique Number of the Paley Graphs and Their Localizations](../assets/paley_paper.pdf)
+[Lower Bounds on Block-Diagonal SDP Relaxations for the Clique Number of the Paley Graphs and Their Localizations](https://github.com/yanling-shen/yanling.github.io/blob/master/assets/paley_paper.pdf)
 
 Yifan Wang, Yanling Shen, and Vladimir A. Kobzar
 
@@ -24,5 +24,5 @@ In Proceeding, 2025
 
 Submitted for review
 
-[Poster](../assets/Paley_poster.pdf) presented at Foundations of Data Science Workshop at Data Science Institute, Columbia University.
+[Poster](https://github.com/yanling-shen/yanling.github.io/blob/master/assets/Paley_poster.pdf) presented at Foundations of Data Science Workshop at Data Science Institute, Columbia University.
   
